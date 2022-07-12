@@ -3,7 +3,7 @@
 ## React + Redux
 
 - clone the repo
-- cd into `cats` folder
+- cd into `cats-redux` folder
 - run `npm install`
 - run `npm start`
 
