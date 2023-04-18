@@ -6,6 +6,8 @@ name: Catfriends CI
 on:
   push:
     branches: [ "main" ]
+    paths: 
+    - 'cats/**'
   pull_request:
     branches: [ "main" ]
 
